@@ -1,0 +1,11 @@
+(
+  axes: {
+    "ship": Emulated(
+      pos: Key(A),
+      neg: Key(D),
+    ),
+  },
+  actions: {
+    "fire": [ [Key(Space)] ],
+  },
+)

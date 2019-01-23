@@ -1,0 +1,9 @@
+[package]
+name = "sprite_ordering"
+version = "0.1.0"
+authors = ["trsolutions <thomas_odell@trsolutions.biz>"]
+edition = "2018"
+
+[dependencies]
+#amethyst = { path = "../../../Rust/amethyst" }
+amethyst = {git = "https://github.com/amethyst/amethyst"}
